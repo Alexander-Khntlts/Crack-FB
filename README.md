@@ -12,18 +12,18 @@ Welcome
 
 #### Script Crack-FB: Recode By:FerlyXD 
 ```
-pkg update
-pkg upgrade
+pkg update && pkg upgrade
 pkg install git
 pkg install python
-pkg install python2
 pip install requests
 pip install mechanize
+pip install bs4
 git clone https://github.com/Alexander-Khntlts/Crack-FB
+cd $HOME/Crack-FB
 cd Crack-FB
 ```
 * **Untuk Jalankan Script Bisa DiKetik :(To run the script, you can type:)**
-* ```python FerlyXD```
+* ```python Crack-FB.py```
 
 * **Untuk Stop Script Tekan : (To Stop Script Press :)**
 * ```CTRL + Z```
