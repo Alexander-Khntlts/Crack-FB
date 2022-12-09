@@ -17,13 +17,13 @@ pkg upgrade
 pkg install git
 pkg install python
 pkg install python2
-pip2 install requests
-pip2 install mechanize
-git clone https://github.com/arvel-noob/litenoob
-cd litenoob
+pip install requests
+pip install mechanize
+git clone https://github.com/Alexander-Khntlts/Crack-FB
+cd Crack-FB
 ```
 * **Untuk Jalankan Script Bisa DiKetik :(To run the script, you can type:)**
-* ```python free.py```
+* ```python FerlyXD```
 
 * **Untuk Stop Script Tekan : (To Stop Script Press :)**
 * ```CTRL + Z```
