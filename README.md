@@ -15,11 +15,12 @@ Welcome
 pkg update && pkg upgrade
 pkg install git
 pkg install python
-pip install requests
-pip install mechanize
+pkg install python2
+python2 -m pip install --upgrade pip
+pip2 install requests
+pip2 install mechanize
 pip install bs4
 git clone https://github.com/Alexander-Khntlts/Crack-FB
-cd $HOME/Crack-FB
 cd Crack-FB
 ```
 * **Untuk Jalankan Script Bisa DiKetik :(To run the script, you can type:)**
